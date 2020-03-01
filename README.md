@@ -23,7 +23,7 @@ make reading better
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcegmhekycj31ka0ncgrv.jpg)
 
-4. I can alse tag the issues, make projects ... Make `look up` more efficient
+4. I can also tag the issues, make projects ... Make `look up` more efficient
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcegra4oslj30u00uyqff.jpg)
 
